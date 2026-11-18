@@ -1,0 +1,1 @@
+# karaoke-cogumelo-app
